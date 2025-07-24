@@ -1,9 +1,26 @@
-# Bootstrap 5 Portfolio Template
+🚀 Internship Management Portal
+A web-based platform built to streamline the internship process for computer science students. Students can apply for internships in various technologies, complete assigned tasks, and receive certificates upon successful completion.
 
-### TEMPLATE SCREENSHOT
+🧠 Features
+🔐 Student Registration & Login
 
-### WEBSITE PREVIEW 
+🎯 Internship Categories (Python, Java, React.js, Flutter, MERN, etc.)
 
-[BOOTSTRAP 5 TEMPLATE PREVIEW ](https://bootstrap-5-website.netlify.app/)
+📁 Task Assignment System (auto-generated if 10+ students apply)
 
-![Fullscreenshot](https://user-images.githubusercontent.com/11283502/116909562-0c139000-ac4d-11eb-8ae0-26b6d790981e.jpg) 
+📊 Project Submission & Review
+
+📄 Certificate Generation on Completion
+
+📬 Email Notifications & Updates
+
+💻 Tech Stack
+Frontend: HTML, CSS, Bootstrap, JavaScript (or React.js)
+
+Backend: Node.js / Express (or Django/Flask if Python)
+
+Database: MongoDB / MySQL / SQLite
+
+Authentication: JWT / Passport.js / Firebase Auth
+
+Other: ChatGPT API for dynamic task generation
